@@ -1,0 +1,98 @@
+.property {
+    padding-top: 70px;
+}
+
+.navbar {
+    background-color: #007bff!important;
+    box-shadow: none;
+    color: #fff;
+}
+
+.input-group-addon {
+    border-radius: 0px;
+}
+
+body {
+    position: relative;
+}
+
+.page-header.sign-up {
+    height: 120vh;
+}
+
+.badge-success {
+    color: #fff;
+    background-color: #28a745;
+}
+
+.badge {
+    border-radius: .25rem;
+}
+
+.form-control {
+    border-radius: 0px;
+}
+
+.nav-tabs.nav-tabs-info>.nav-item>.nav-link.active {
+    border-color: #2CA8FF;
+    color: #2CA8FF;
+    background-color: #c6c3c2;;
+    border-radius: 0px;
+}
+
+.nav-tabs>.nav-item>.nav-link {
+    color: #f8f9fa;
+    background-color: #343a40;
+    border-radius: 0px;
+}
+
+.tab-pane.fade.show.active .tab-notice {
+    color: #e3e3e3;
+}
+
+.tab-pane.fade.show.active .tab-notice b {
+    color: #ff3636;
+}
+
+.info-holder .btn-info {
+    background-color: #dee2e6;
+}
+
+.btn.btn-info.btn-outline-info {
+    color: #155724;
+    border-color: #3ea845;
+}
+
+.btn.btn-info.btn-outline-info:hover{
+    color: #dee2e6;
+    /* border-color: #3ea845; */
+    background-color: #3ea845;
+}
+
+.card .card-img.card-img-top img {
+    height: 250px;
+    width: 350px;
+}
+
+.card .card-img.card-img-top {
+    text-align: center;
+}
+
+.carousel-control-prev-icon{
+    background-color: red;
+}
+
+.carousel-control-next-icon{
+    background-color: red;
+}
+
+.page-name{
+    position: relative;
+    color: inherit;
+    height: 50px;
+    font-size: 1.125rem;
+    line-height: 30px;
+    padding: .625rem 0;
+    font-weight: 300;
+    margin-left: 1rem;
+}
